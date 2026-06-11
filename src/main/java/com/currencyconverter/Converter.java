@@ -1,4 +1,4 @@
-package com.fdm.currencyconverter;
+package com.currencyconverter;
 
 import java.io.File;
 import java.io.FileNotFoundException;
